@@ -3,6 +3,7 @@ we used this method in the artical [Performance optimization of BP-DNN predictio
 
 If you find this code useful in your research then please cite  
 ========As for coteaching model==============
+
 [Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels](https://arxiv.org/abs/1804.06872)  
 Bo Han*, Quanming Yao*, Xingrui Yu, Gang Niu, Miao Xu, Weihua Hu, Ivor Tsang, Masashi Sugiyama  
 
