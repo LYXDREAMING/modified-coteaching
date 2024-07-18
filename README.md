@@ -1,4 +1,4 @@
-this code is based on the coteaching model, and we modified it for denoising data and fusion data.
+this code is based on the coteaching model, and we modified it for denoising data and fusing data.
 we used this method in the artical [Performance optimization of BP-DNN prediction model of suction caisson uplift bearing capacity employing modified Co-teaching method] Yixiao Luan, Xiaowei Tang*, Yubin Ren
 
 If you find this code useful in your research then please cite  
